@@ -8,4 +8,4 @@ Desenvolvido por um curso na [Udemy](https://www.udemy.com/course/web-completo/)
 
 ## Contato
 
-Feito por Gabriel Dias [Entrar em contato!](https://www.linkedin.com/in/gabriel-dias-990472190/)
+Feito por Gabriel Dias [Entrar em contato!](https://www.linkedin.com/in/gabrieldias-)
